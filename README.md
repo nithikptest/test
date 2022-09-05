@@ -472,6 +472,8 @@ The following are the core topics in this chapter:
 - The two-pizza team
 - Inverse Conway Maneuver
 - Delivery cadence
+
+Testing PR here
 - Mono- or multi-repo strategy
 
 <details><summary>References and Links</summary>
@@ -633,3 +635,5 @@ We will cover the following topics:
 - de Vries, M., & van Osnabrugge, R. (2022): [Together we build an Engineering Culture](https://xpirit.com/together-we-build-an-engineering-culture/). XPRT Magazine #12. 
 
 </details> 
+
+Testing PR
